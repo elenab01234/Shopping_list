@@ -39,4 +39,5 @@ This project is a web-based application which provides a user interface built wi
 
 3. Start the streamlit server:
     ```bash
+    cd src
     streamlit run main.py
