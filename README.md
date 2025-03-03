@@ -16,7 +16,7 @@ This project is a web-based application which provides a user interface built wi
 ---
 ## App screenshot
 
-![App Screenshot](src/Screenshot _shooping_list_app.png)
+![App Screenshot](src/Screenshot_shooping_list_app.png)
 
 
 ---
