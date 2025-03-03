@@ -14,6 +14,12 @@ This project is a web-based application which provides a user interface built wi
 - **Database**: The interaction with MySQL database is done with SQLAlchemy for storing the list.
 
 ---
+## App screenshot
+
+![App Screenshot](src/Screenshot _shooping_list_app.png)
+
+
+---
 
 ## Requirements
 
